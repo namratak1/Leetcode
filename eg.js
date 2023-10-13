@@ -222,3 +222,14 @@
 // }
 
 // console.log("final",final)
+
+// const nums = [1,3,2,1]
+// Output: [1,2,1,1,2,1]
+
+// const data =[...nums,];
+
+
+// for(let i=0;i<nums.length;i++){
+//     data.push(nums[i])
+// }
+// console.log(data,"dataa")
